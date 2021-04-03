@@ -14,6 +14,6 @@ public class Hello {
     }
     
     public func saySomething() -> String {
-        return "Hi Leonara!"
+        return "Hi Leonara, from dinamic code!"
     }
 }
