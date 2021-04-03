@@ -1,0 +1,11 @@
+framework module LeoLibrary {
+  umbrella header "LeoLibrary.h"
+
+  export *
+  module * { export * }
+}
+
+module LeoLibrary.Swift {
+    header "LeoLibrary-Swift.h"
+    requires objc
+}

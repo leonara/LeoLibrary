@@ -4,13 +4,113 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/LeoLibrary-Swift.h</key>
+		<data>
+		WNuiZgRJ9YrWTOVEIzP5crCjW48=
+		</data>
+		<key>Headers/LeoLibrary.h</key>
+		<data>
+		8lJO/AhuVP4cFPlIAumLnnAj+I0=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		CrhXg+j8ZFF6k/O0H/yJrCLjR4g=
 		</data>
+		<key>Modules/LeoLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		Wk35XrYW51NqrY27KIUs3EbSp8c=
+		</data>
+		<key>Modules/LeoLibrary.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		czKjWxJZNR8kJIgrrEMk3pTQxOo=
+		</data>
+		<key>Modules/LeoLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		71c8xAMnh9uNi/oYpnbJDwMCtn0=
+		</data>
+		<key>Modules/LeoLibrary.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		Wk35XrYW51NqrY27KIUs3EbSp8c=
+		</data>
+		<key>Modules/LeoLibrary.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		czKjWxJZNR8kJIgrrEMk3pTQxOo=
+		</data>
+		<key>Modules/LeoLibrary.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		71c8xAMnh9uNi/oYpnbJDwMCtn0=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		nlEFnMdzo3pmyfraD1ROykPYXxg=
+		</data>
 	</dict>
 	<key>files2</key>
-	<dict/>
+	<dict>
+		<key>Headers/LeoLibrary-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UZc7J7NUbNP4y3r1EGlxX/CmdBZWSiC4VGAjjvPGPY4=
+			</data>
+		</dict>
+		<key>Headers/LeoLibrary.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GpRxudXFlgRlJRXl6Sl9tEtQK//DLXkhTYqzTQ2x9WE=
+			</data>
+		</dict>
+		<key>Modules/LeoLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wqKrDXoANBUYNtoQ7LrvF1VLydspHO/zurw+AoKBNOg=
+			</data>
+		</dict>
+		<key>Modules/LeoLibrary.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LF3N+vKNs6HThPy4AX5D1DosELw0p47RGDUsJAkGqSU=
+			</data>
+		</dict>
+		<key>Modules/LeoLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m/ZNCoM4oIsR555bsPrUvLRHhQWcCe4t9d7/IoCrBXM=
+			</data>
+		</dict>
+		<key>Modules/LeoLibrary.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wqKrDXoANBUYNtoQ7LrvF1VLydspHO/zurw+AoKBNOg=
+			</data>
+		</dict>
+		<key>Modules/LeoLibrary.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LF3N+vKNs6HThPy4AX5D1DosELw0p47RGDUsJAkGqSU=
+			</data>
+		</dict>
+		<key>Modules/LeoLibrary.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m/ZNCoM4oIsR555bsPrUvLRHhQWcCe4t9d7/IoCrBXM=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wGgV7klriEVh5u4eAfxvxae4w8Om4oelmhr6i15olCc=
+			</data>
+		</dict>
+	</dict>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>
