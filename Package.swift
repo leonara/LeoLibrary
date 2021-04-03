@@ -11,7 +11,11 @@ let package = Package(
     products: [
         .library(
             name: "LeoLibrary",
-            targets: ["LeoLibrary","LeoLibraryBinary"]),
+            type: .dynamic,
+            targets: ["LeoLibrary"]),
+        .library(
+            name: "LeoLibraryBinary",
+            targets: ["LeoLibraryBinary"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
