@@ -13,7 +13,7 @@ public class Hello {
         
     }
     
-    func saySomething() -> String {
+    public func saySomething() -> String {
         return "Hi Leonara!"
     }
 }
