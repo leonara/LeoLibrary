@@ -1,0 +1,1 @@
+{"object": {"artifacts": [{"packageRef": {"identity": "leolibrary", "kind": "root", "name": "LeoLibrary", "path": "/Users/leonara.martins/Documents/development/workspace/ios/personalTest/SPM/LeoLibrary"}, "source": {"path": "binary/LeoLibrary.xcframework", "type": "local"}, "targetName": "LeoLibraryBinary"}], "dependencies": []}, "version": 4}

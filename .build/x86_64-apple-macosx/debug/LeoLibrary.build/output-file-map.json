@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/leonara.martins/Documents/development/workspace/ios/personalTest/SPM/LeoLibrary/.build/x86_64-apple-macosx/debug/LeoLibrary.build/master.swiftdeps"
+  },
+  "/Users/leonara.martins/Documents/development/workspace/ios/personalTest/SPM/LeoLibrary/Source/Hello.swift": {
+    "dependencies": "/Users/leonara.martins/Documents/development/workspace/ios/personalTest/SPM/LeoLibrary/.build/x86_64-apple-macosx/debug/LeoLibrary.build/Hello.d",
+    "object": "/Users/leonara.martins/Documents/development/workspace/ios/personalTest/SPM/LeoLibrary/.build/x86_64-apple-macosx/debug/LeoLibrary.build/Hello.swift.o",
+    "swiftmodule": "/Users/leonara.martins/Documents/development/workspace/ios/personalTest/SPM/LeoLibrary/.build/x86_64-apple-macosx/debug/LeoLibrary.build/Hello~partial.swiftmodule",
+    "swift-dependencies": "/Users/leonara.martins/Documents/development/workspace/ios/personalTest/SPM/LeoLibrary/.build/x86_64-apple-macosx/debug/LeoLibrary.build/Hello.swiftdeps"
+  }
+}

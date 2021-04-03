@@ -1,0 +1,4 @@
+module LeoLibrary {
+    header "/Users/leonara.martins/Documents/development/workspace/ios/personalTest/SPM/LeoLibrary/.build/x86_64-apple-macosx/debug/LeoLibrary.build/LeoLibrary-Swift.h"
+    requires objc
+}

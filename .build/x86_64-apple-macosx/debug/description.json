@@ -1,0 +1,14 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.LeoLibrary-debug.module" : "LeoLibrary"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

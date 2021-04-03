@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "204b89cb799ec481cca935a22f6c2911"
+build_time: [1617450854, 482961000]
+inputs:
+  "/Users/leonara.martins/Documents/development/workspace/ios/personalTest/SPM/LeoLibrary/Source/Hello.swift": [1617445672, 43750820]
